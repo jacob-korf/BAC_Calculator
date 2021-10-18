@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BAC</string>
+    <string name="action_settings">Clear</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="bac_calculator">BAC Calculator</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="weight_in_pounds">Weight (in pounds)</string>
+    <string name="hours_since_last_drink">Hours since last drink</string>
+    <string name="beers">Beers</string>
+    <string name="cups_of_wine">Cups of Wine</string>
+    <string name="strong_shots_appr_40_abv">Strong Shots(appr. 40% ABV)</string>
+    <string name="mixed_shots_appr_20_abv">Mixed Shots (appr. 20% ABV)</string>
+    <string name="calculate_bac">Calculate BAC</string>
+</resources>
